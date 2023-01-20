@@ -130,11 +130,4 @@ Cargo: QA TESTER JR
 
 </div>
 
-<style>
 
-img{
-    margin:5px;
-}
-
-</style>
-</div>
