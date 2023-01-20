@@ -78,6 +78,8 @@ Since i was very young, i have been passionate about computing and technology, s
   <a href="https://www.linkedin.com/in/josef-teixeira-araujo-9813ab186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/JOSEFTALSON/JOSEFTALSON/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SilvaEngComp/SilvaEngComp/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JOSEFTALSON/JOSEFTALSON/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
